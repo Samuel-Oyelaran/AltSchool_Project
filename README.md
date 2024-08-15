@@ -1,5 +1,5 @@
 # Carefinder-app
-An app that allows users to search, locate and download hospitals within their locations.
+This innovation helps you navigate through the different hospitals, copy hospitals' addresses, share and download same not only for yourself but also your folks. 
 
 ## Features
 Search
